@@ -24,4 +24,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work under [CC0 1.0 Universal](LICENSE.txt).
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work under [CC0 1.0 Universal](https://github.com/tangu-dev/awesome-tangu/blob/main/LICENSE.txt).
