@@ -1,10 +1,11 @@
 # Awesome Tangu
 
-A curated list of [Tangu](https://tangu.dev) applications, examples, and resources.
+A curated list of [Tangu](https://tangu.dev) applications, sites, examples, and resources.
 
 ## Contents
 
 - [Applications](#applications)
+- [Sites](#sites)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
@@ -13,6 +14,10 @@ A curated list of [Tangu](https://tangu.dev) applications, examples, and resourc
 
 - [Ringu](https://ringu.xyz) — Social communication, activity tracks, and spots platform built with Tangu.
 - [Dayjo](https://dayjo.app) — Daily calendar and almanac web app for feasts, name days, public holidays, and observances.
+
+## Sites
+
+- [tangu.dev](https://tangu.dev) — Official website, guides, and reference documentation for the Tangu programming language.
 
 ## Examples
 
